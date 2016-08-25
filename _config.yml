@@ -1,0 +1,14 @@
+layout_spectrum: 0.1653177614789456
+typography_spectrum: 0.7473922262433916
+color:
+  brandStrength: 0.500654456904158
+  lightness: 0.7604903164319694
+  saturation: 0.6423977962695062
+  rhythmicContrast: 0.5914270146749914
+  brandColors:
+    - '#FFFFFF'
+    - '#5EA2DD'
+    - '#1F2C08'
+    - '#7A8470'
+    - '#FAC468'
+name: Family Site
